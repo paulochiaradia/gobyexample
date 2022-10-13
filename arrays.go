@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// "Static data implementation"
 func main() {
 	var a [5]int
 	fmt.Println("emp:", a) //print "a" array

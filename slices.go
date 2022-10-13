@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// "Dynamic data implementation"
 func main() {
 
 	s := make([]string, 3)
